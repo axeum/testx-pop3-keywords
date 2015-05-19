@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+  "poplib": "^0.1.7",
+  "lodash": "^3.8.0",
+  }
+}
