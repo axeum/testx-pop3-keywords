@@ -1,6 +1,36 @@
 {
+  "name": "pop3-keywords",
+  "version": "0.1.0",
+  "description": "Keywords to test mailserver using pop3",
+  "main": "index.coffee",
   "dependencies": {
-  "poplib": "^0.1.7",
-  "lodash": "^3.8.0",
-  }
+    "coffee-errors": "^0.8.6",
+    "lodash": "^3.8.0",
+    "poplib": "^0.1.7",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.gitlab.isd.ictu/test/pop3-keywords.git"
+  },
+  "keywords": [
+    "pop3",
+    "test",
+    "mail"
+  ],
+  "author": {
+    "name": "Giovanni Renfurm"
+  },
+  "license": "ISC",
+  "gitHead": "aa2801e9f94f426c8598d7698c320b3d025e0850",
+  "readme": "ERROR: No README data found!",
+  "_id": "pop3-keywords@0.1.0",
+  "_shasum": "4df35dbb364ec86a8b78cccb46f721f9d5c3e009",
+  "_from": "pop3-keywords@>=0.1.0 <0.2.0"
 }
