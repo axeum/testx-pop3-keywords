@@ -1,5 +1,5 @@
 {
-  "name": "pop3-keywords",
+  "name": "testx-pop3-keywords",
   "version": "0.1.0",
   "description": "Keywords to test mailserver using pop3",
   "main": "index.coffee",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://www.gitlab.isd.ictu/test/pop3-keywords.git"
+    "url": "http://www.gitlab.isd.ictu/test/testx-pop3-keywords.git"
   },
   "keywords": [
     "pop3",
