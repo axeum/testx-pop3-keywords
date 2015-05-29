@@ -17,20 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://www.gitlab.isd.ictu/test/testx-pop3-keywords.git"
+    "url": "http://www.github.com/gioren/testx-pop3-keywords.git"
   },
   "keywords": [
     "pop3",
     "test",
     "mail"
   ],
-  "author": {
-    "name": "Giovanni Renfurm"
-  },
+  "author": "Giovanni Renfurm",
   "license": "ISC",
-  "gitHead": "aa2801e9f94f426c8598d7698c320b3d025e0850",
-  "readme": "ERROR: No README data found!",
-  "_id": "pop3-keywords@0.1.0",
   "_shasum": "4df35dbb364ec86a8b78cccb46f721f9d5c3e009",
   "_from": "pop3-keywords@>=0.1.0 <0.2.0"
 }
