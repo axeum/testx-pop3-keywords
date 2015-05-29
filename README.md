@@ -1,12 +1,12 @@
 testx-pop3-keywords
 =====
 
-A library that extends testx with keywords for testing pop3 mail servers. This library is packaged as a npm package and published to npm.isd.ictu
+A library that extends testx with keywords for testing pop3 mail servers. This library is packaged as a npm package
 
 ## How does it work
 From the directory of the art code install the package as follows:
 ```sh
-npm install testx-pop3-keywords --save --registry=http://npm.isd.ictu
+npm install testx-pop3-keywords --save
 ```
 
 After installing the package add the keywords to your protractor config file as follows:
