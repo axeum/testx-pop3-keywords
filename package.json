@@ -1,6 +1,6 @@
 {
   "name": "testx-pop3-keywords",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Keywords to test mailserver using pop3",
   "main": "index.coffee",
   "dependencies": {

@@ -83,8 +83,9 @@ exports.deleteAllMessages = (host, port, username, password) ->
   client.on 'list', (status, msgnumber, data, rawdata) ->
     if status
       console.log 'LIST success'
-      if i <= msgnumber
-        client.dele(i)
+      if msgnumber
+        console.log "Deleting message #{i}"
+        client.dele(msgnumber)
       else
         client.quit()
         deferred.resolve()
